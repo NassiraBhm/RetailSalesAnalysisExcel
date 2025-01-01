@@ -1,3 +1,5 @@
+[Project Link](https://docs.google.com/spreadsheets/d/1-0odSzHQ1q2XSTdhRITzvJOTgLSTvNAM/edit?usp=drive_link&ouid=100129137564052742930&rtpof=true&sd=true)
+
 # Retail Data Analysis Using Excel
 
 In this project, I performed a comprehensive analysis of retail data using Microsoft Excel. The goal was to extract actionable insights on sales trends, customer behavior, and product performance to support business decision-making.
